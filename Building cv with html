@@ -1,0 +1,67 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Grace Nso CV</title>
+</head>
+<body style="background-color: antiquewhite;">
+    <img src="./images/grace.png"  height="150" alt="Grace Nso">
+    <h1>Grace Nso</h1>
+ <p>nsograce123@gmail.com</p>
+ <hr>
+ 
+ <!-- Objectives -->
+ <h2>Objectives</h2>
+ <p>I am a simple, focused and determined young lady, a student of the faculty of medical laboratory science, university of calabar, college of medical sciences, calabar.
+I'm also a seamstress, a graphic designer, and a facebook advertiser.
+</p>
+
+<p>I love discovering new things everyday, it makes me feel excited about learning, I believe I can achieve whatever I set mind to accomplish.</p>
+ <hr>
+ 
+ <!-- Education -->
+ <h2>Educational Qualifications</h2>
+ <table border="3">
+								<thead>
+						<th>schools attented</th>
+						<th>Degree</th>
+						<th>Year</th>
+								</thead>
+								
+								<tr>
+									<td>Auntie Margaret Nursery and Primary School.</td>
+			   	<td>FSLC(First School Leaving Certificate)</td>
+									<td>2002-2011</td>
+								</tr>
+								
+								<tr>
+									<td>Holy Child Secondary School, Marain Hill, Calabar.</td>
+			<td>BECE(Basic Education Certificate Examination)</td>
+									<td>2012-2014</td>
+								</tr>
+								
+								<tr>
+										<td>University of Calabar International Demonstration Secondary School</td>
+			<td>SSCE(Senior School Certificate Examination)</td>
+										<td>2015-2018</td>
+								</tr>
+								
+								<tr>
+										<td>University of Calabar, Calabar, Nigeria.</td>
+				<td>B.MLS(Bachelor of Medical Laboratory Science) in lieu</td>
+				    <td>2019 till date</td>
+								</tr>
+						</table>
+						<hr>
+						<br>
+
+<!--Button-->
+<a href="experience.html">
+  <button>Experience</button>  
+</a>
+
+<a href="contact.html">
+  <button>Contact Me</button>  
+</a>
+</body>
+</html>
+
